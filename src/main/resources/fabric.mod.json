@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "emerald-stuff",
+  "version": "${version}",
+  "name": "EmeraldStuff",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/pierrecamplin/EmeraldStuff"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/EmeraldStuff/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "project.maven_group.emeraldstuff.EmeraldStuff"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.14",
+    "fabric": "*",
+    "minecraft": "1.19.3"
+  }
+}
