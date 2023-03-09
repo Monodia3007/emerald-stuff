@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>/Users/pierrecamplin/IdeaProjects/emerald-stuff/src/main/java</OriginalElement>
+  <nodes>
+    <node x="182.0" y="715.0">project.maven_group.emeraldstuff.EmeraldStuff</node>
+    <node x="984.0" y="107.0">project.maven_group.emeraldstuff.tools.EmeraldAxeItem</node>
+    <node x="450.0" y="341.0">project.maven_group.emeraldstuff.RegisterItems</node>
+    <node x="608.0" y="107.0">project.maven_group.emeraldstuff.tools.EmeraldHoeItem</node>
+    <node x="288.00000000000006" y="-14.0">project.maven_group.emeraldstuff.armor.EmeraldArmorMaterial</node>
+    <node x="-111.0" y="107.0">project.maven_group.emeraldstuff.tools.EmeraldPickaxeItem</node>
+    <node x="-111.0" y="715.0">project.maven_group.emeraldstuff.tools.EmeraldToolMaterial</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="project.maven_group.emeraldstuff.RegisterItems" target="project.maven_group.emeraldstuff.tools.EmeraldHoeItem" relationship="CREATE">
+      <point x="0.0" y="-164.5" />
+      <point x="612.0" y="316.0" />
+      <point x="786.0" y="316.0" />
+      <point x="0.0" y="31.5" />
+    </edge>
+    <edge source="project.maven_group.emeraldstuff.RegisterItems" target="project.maven_group.emeraldstuff.tools.EmeraldAxeItem" relationship="CREATE">
+      <point x="0.0" y="-164.5" />
+      <point x="612.0" y="316.0" />
+      <point x="1167.5" y="316.0" />
+      <point x="0.0" y="31.5" />
+    </edge>
+    <edge source="project.maven_group.emeraldstuff.RegisterItems" target="project.maven_group.emeraldstuff.armor.EmeraldArmorMaterial" relationship="CREATE">
+      <point x="0.0" y="-164.5" />
+      <point x="612.0" y="316.0" />
+      <point x="438.0" y="316.0" />
+      <point x="0.0" y="152.5" />
+    </edge>
+    <edge source="project.maven_group.emeraldstuff.RegisterItems" target="project.maven_group.emeraldstuff.tools.EmeraldPickaxeItem" relationship="CREATE">
+      <point x="0.0" y="-164.5" />
+      <point x="612.0" y="316.0" />
+      <point x="78.5" y="316.0" />
+      <point x="0.0" y="31.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.8360323886639676" showDependencies="true" x="538.0" y="454.4334140435835" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
